@@ -4,8 +4,8 @@
 
 # Perhatian
 - Wilayah gesture hanya aktif pada lingkaran jam yang berwarna pink
-- 1. Drag ke atas (untuk mengatur jam).
-- 2. Drag ke bawah (untuk mengatur menit).
+- 1. Drag ke atas dan kebawah (untuk mengatur jam).
+- 2. Drag ke kiri dan ke kanan (untuk mengatur menit).
 - 3. Tap dua kali (untuk membuka chartbar history).
 - 4. Tekan dan tahan lama (untuk membuat alarm).
 
